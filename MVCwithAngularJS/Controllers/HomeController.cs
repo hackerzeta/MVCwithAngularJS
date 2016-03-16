@@ -25,5 +25,10 @@ namespace MVCwithAngularJS.Controllers
 
         }
 
+        public ActionResult Part3()
+        {
+            return View();
+        }
+
     }
 }

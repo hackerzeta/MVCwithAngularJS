@@ -13,10 +13,10 @@ namespace MVCwithAngularJS
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ContactsEntities : DbContext
+    public partial class MyDatabaseEntities : DbContext
     {
-        public ContactsEntities()
-            : base("name=ContactsEntities")
+        public MyDatabaseEntities()
+            : base("name=MyDatabaseEntities")
         {
         }
     
@@ -26,5 +26,6 @@ namespace MVCwithAngularJS
         }
     
         public DbSet<Contact> Contact { get; set; }
+        public DbSet<Users> Users { get; set; }
     }
 }
