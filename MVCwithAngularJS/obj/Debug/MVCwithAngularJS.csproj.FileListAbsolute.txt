@@ -30,3 +30,7 @@ c:\users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\
 c:\users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\obj\Debug\MVCwithAngularJS.csprojResolveAssemblyReference.cache
 c:\users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\obj\Debug\MVCwithAngularJS.dll
 c:\users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\obj\Debug\MVCwithAngularJS.pdb
+C:\Users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\bin\Scripts\angular-route.js
+C:\Users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\bin\Scripts\angular-route.min.js
+C:\Users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\bin\Scripts\angular.js
+C:\Users\pablo\onedrive\documentos\visual studio 2013\Projects\MVCwithAngularJS\MVCwithAngularJS\bin\Scripts\angular.min.js
