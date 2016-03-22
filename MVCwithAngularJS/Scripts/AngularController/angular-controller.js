@@ -13,4 +13,4 @@
         return $http.get('/Data/GetLastContact');
     }
     return fac;
-});
+})
